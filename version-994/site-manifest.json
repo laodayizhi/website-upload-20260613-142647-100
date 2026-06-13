@@ -1,0 +1,8 @@
+{
+  "siteTitle": "国产电视剧视频免费在线观看·高清剧集大全更新-经典国产剧集",
+  "movieCount": 2000,
+  "detailPageCount": 2000,
+  "categoryCount": 10,
+  "coverRule": "X = ((N - 1) % 150) + 1",
+  "imagesIncluded": false
+}
